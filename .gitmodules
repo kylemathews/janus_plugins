@@ -1,0 +1,27 @@
+[submodule "tcomment"]
+	path = tcomment
+	url = https://github.com/tomtom/tcomment_vim.git
+[submodule "rvm"]
+	path = rvm
+	url = https://github.com/csexton/rvm.vim.git
+[submodule "abolish"]
+	path = abolish
+	url = https://github.com/tpope/vim-abolish.git
+[submodule "syntastic"]
+	path = syntastic
+	url = https://github.com/scrooloose/syntastic.git
+[submodule "extradite"]
+	path = extradite
+	url = https://github.com/int3/vim-extradite.git
+[submodule "session"]
+	path = session
+	url = https://github.com/xolox/vim-session.git
+[submodule "bundler"]
+	path = bundler
+	url = https://github.com/tpope/vim-bundler.git
+[submodule "netrw"]
+	path = netrw
+	url = https://github.com/vim-scripts/netrw.vim.git
+[submodule "railscasts"]
+	path = railscasts
+	url = https://github.com/jpo/vim-railscasts-theme.git
