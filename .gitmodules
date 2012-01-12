@@ -22,3 +22,6 @@
 [submodule "railscasts"]
 	path = railscasts
 	url = https://github.com/jpo/vim-railscasts-theme.git
+[submodule "rails"]
+	path = rails
+	url = https://github.com/tpope/vim-rails.git
