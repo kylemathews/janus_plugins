@@ -7,9 +7,6 @@
 [submodule "abolish"]
 	path = abolish
 	url = https://github.com/tpope/vim-abolish.git
-[submodule "syntastic"]
-	path = syntastic
-	url = https://github.com/scrooloose/syntastic.git
 [submodule "extradite"]
 	path = extradite
 	url = https://github.com/int3/vim-extradite.git
