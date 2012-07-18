@@ -25,3 +25,15 @@
 [submodule "rails"]
 	path = rails
 	url = https://github.com/tpope/vim-rails.git
+[submodule "rails31nav"]
+	path = rails31nav
+	url = https://github.com/danchoi/rails31nav.vim.git
+[submodule "rails31nav.vim"]
+	path = rails31nav.vim
+	url = https://github.com/danchoi/rails31nav.vim.git
+[submodule "vim-jquery-doc"]
+	path = vim-jquery-doc
+	url = https://github.com/lucapette/vim-jquery-doc.git
+[submodule "vim-powerline"]
+	path = vim-powerline
+	url = https://github.com/Lokaltog/vim-powerline.git
