@@ -10,9 +10,6 @@
 [submodule "extradite"]
 	path = extradite
 	url = https://github.com/int3/vim-extradite.git
-[submodule "session"]
-	path = session
-	url = https://github.com/xolox/vim-session.git
 [submodule "bundler"]
 	path = bundler
 	url = https://github.com/tpope/vim-bundler.git
@@ -37,6 +34,15 @@
 [submodule "vim-powerline"]
 	path = vim-powerline
 	url = https://github.com/Lokaltog/vim-powerline.git
+[submodule "emmet-vim"]
+	path = emmet-vim
+	url = https://github.com/mattn/emmet-vim.git
 [submodule "vim-misc"]
 	path = vim-misc
 	url = https://github.com/xolox/vim-misc.git
+[submodule "vim-session"]
+	path = vim-session
+	url = https://github.com/xolox/vim-session.git
+[submodule "vim-multiple-cursors"]
+	path = vim-multiple-cursors
+	url = https://github.com/terryma/vim-multiple-cursors.git
